@@ -1,0 +1,10 @@
+E:\5-MyProjects\MY-Tac-Toe-Game\bin\Debug\MY-Tac-Toe-Game.exe.config
+E:\5-MyProjects\MY-Tac-Toe-Game\bin\Debug\MY-Tac-Toe-Game.exe
+E:\5-MyProjects\MY-Tac-Toe-Game\bin\Debug\MY-Tac-Toe-Game.pdb
+E:\5-MyProjects\MY-Tac-Toe-Game\obj\Debug\MY-Tac-Toe-Game.csproj.AssemblyReference.cache
+E:\5-MyProjects\MY-Tac-Toe-Game\obj\Debug\MY_Tac_Toe_Game.Form1.resources
+E:\5-MyProjects\MY-Tac-Toe-Game\obj\Debug\MY_Tac_Toe_Game.Properties.Resources.resources
+E:\5-MyProjects\MY-Tac-Toe-Game\obj\Debug\MY-Tac-Toe-Game.csproj.GenerateResource.cache
+E:\5-MyProjects\MY-Tac-Toe-Game\obj\Debug\MY-Tac-Toe-Game.csproj.CoreCompileInputs.cache
+E:\5-MyProjects\MY-Tac-Toe-Game\obj\Debug\MY-Tac-Toe-Game.exe
+E:\5-MyProjects\MY-Tac-Toe-Game\obj\Debug\MY-Tac-Toe-Game.pdb
